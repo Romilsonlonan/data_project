@@ -1,0 +1,12 @@
+2024-06-12 10:53:03.706 | INFO     | __main__:buscar_todos_dados_commodities:31 - [                                Open       High        Low      Close  Volume  Dividends  Stock Splits simbolo
+Date                                                                                                          
+2024-06-07 00:00:00-04:00  75.669998  76.250000  75.209999  75.529999  280253        0.0           0.0    CL=F
+2024-06-10 00:00:00-04:00  75.349998  78.290001  75.230003  77.739998  280253        0.0           0.0    CL=F
+2024-06-12 00:00:00-04:00  78.220001  79.269997  78.019997  79.150002   92411        0.0           0.0    CL=F, Empty DataFrame
+Columns: [Open, High, Low, Close, Adj Close, Volume, simbolo]
+Index: [],                              Open       High        Low      Close  Volume  Dividends  Stock Splits simbolo
+Date                                                                                                       
+2024-06-07 00:00:00-04:00  31.525  31.525000  29.299999  29.334999      10        0.0           0.0    SI=F
+2024-06-10 00:00:00-04:00  29.590  29.768999  29.480000  29.768999      10        0.0           0.0    SI=F
+2024-06-12 00:00:00-04:00  29.385  30.355000  29.280001  29.934999   49539        0.0           0.0    SI=F]
+2024-06-12 10:53:03.748 | INFO     | __main__:buscar_todos_dados_commodities:32 - --- 8.81840705871582 --- seconds ---

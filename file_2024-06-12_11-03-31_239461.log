@@ -1,0 +1,8 @@
+2024-06-12 11:03:32.659 | INFO     | __main__:buscar_dados_commodities:18 - Dados da commodity CL=F coletados com sucesso.
+2024-06-12 11:03:32.660 | INFO     | __main__:buscar_dados_commodities:19 - --- 1.407134771347046 --- seconds ---
+2024-06-12 11:03:37.556 | INFO     | __main__:buscar_dados_commodities:18 - Dados da commodity CG=F coletados com sucesso.
+2024-06-12 11:03:37.557 | INFO     | __main__:buscar_dados_commodities:19 - --- 4.896234750747681 --- seconds ---
+2024-06-12 11:03:37.780 | INFO     | __main__:buscar_dados_commodities:18 - Dados da commodity SI=F coletados com sucesso.
+2024-06-12 11:03:37.781 | INFO     | __main__:buscar_dados_commodities:19 - --- 0.22366595268249512 --- seconds ---
+2024-06-12 11:03:37.782 | INFO     | __main__:buscar_todos_dados_commodities:36 - Todos os dados das commodities coletados com sucesso.
+2024-06-12 11:03:37.783 | INFO     | __main__:buscar_todos_dados_commodities:37 - --- 6.54448390007019 --- seconds ---
